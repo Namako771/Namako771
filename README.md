@@ -6,6 +6,6 @@
 ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat)
 ![](https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Namako771&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)]
+![stats](https://github-readme-stats.vercel.app/api?username=Namako771&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Namako771&layout=compact&theme=tokyonight)
