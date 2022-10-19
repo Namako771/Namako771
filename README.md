@@ -1,8 +1,8 @@
 <div align="center">
 <samp>
 
-## I'm Namako771
-#### Junior Developer
+# I'm Namako771
+## Junior Developer
 </samp>
 
 ![](https://img.shields.io/twitter/follow/Namanko771?label=Twitter&logo=twitter&style=flat)
@@ -10,8 +10,6 @@
 ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat)
 ![](https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Namako771&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
-
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Namako771&layout=compact&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=Namako771&hide=contribs&count_private=true&show_icons=true&theme=tokyonight) ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Namako771&layout=compact&theme=tokyonight)
 
 </div>
