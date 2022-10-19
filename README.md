@@ -1,5 +1,9 @@
-## 👋 I'm Namako771
-### Junior developer
+<div align="center">
+<samp>
+
+## I'm Namako771
+#### Junior Developer
+</samp>
 
 ![](https://img.shields.io/twitter/follow/Namanko771?label=Twitter&logo=twitter&style=flat)
 ![](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
@@ -9,3 +13,5 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=Namako771&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Namako771&layout=compact&theme=tokyonight)
+
+</div>
